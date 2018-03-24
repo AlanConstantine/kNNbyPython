@@ -12,6 +12,6 @@ python实现kNN算法
 ### showData.py
 生成图片理解kNN算法原理
 
-![]()
+![](https://github.com/AlanConstantine/kNNbyPython/raw/master/showData.png)
 
 个人博客移步：[ python机器学习——KNN算法简单入门（真的很简单！）](https://blog.csdn.net/alanconstantinelau/article/details/70991662)
